@@ -238,7 +238,7 @@ What are the authors going to do to answer the specific question(s)?
   sampling technique for prediction to see how much accuracy is traded at what
   performance cost.
 
-### Methods: Sparisty
+### Methods: Sparsity
 
 
 ## 📓 Results
